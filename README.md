@@ -93,8 +93,8 @@ business_cards_app/
 Clone the repository, install dependencies, and run the project in the desired environment:
 
 ```bash
-git clone <your-repo-link>
-cd <repository-folder>
+git clone https://github.com/yafitb11/business_cards_app_back.git
+cd business_cards_app
 npm install
 ```
 
