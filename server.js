@@ -40,5 +40,3 @@ app.listen(port, () => {
     generateInitialCards();
     generateInitialUsers();
 })
-
-Console.log("nnn");
